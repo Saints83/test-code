@@ -69,7 +69,7 @@ text-align: center;
  
 </html>
 
-
+<link rel="stylesheet" type="text/css" href="style.css">
 
 p  {
 background-color: lightblue;
